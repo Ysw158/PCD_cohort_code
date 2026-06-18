@@ -59,9 +59,6 @@ forest_data_f <- function(contingency_table){
   or_result_list <- list()
   colnames(forest_data_combine) <- c("Study","mean","lower","upper","pval","OR(95% CI)","Method","YES","NO","Count")
   for (i in 1:length(group_get)){
-    #数据测试
-    # print(i)
-    #产生一个临时的2X2列联表，用于计算OR值；
     contingency_table_temp<-contingency_table[which(contingency_table$Gene_new==group_get[i]),]
     
     contingency_table_temp[2, ] <- list("others", 
@@ -75,10 +72,10 @@ forest_data_f <- function(contingency_table){
     
     or_result <- fisher.test(as.matrix(contingency_table_temp))
     forest_data <- data.frame(
-      Study = group_get[i],       # 分组标签
-      mean = round(or_result$estimate,3) ,             # OR值
-      lower = round(or_result$conf.int[1],3)  ,            # 95% CI 下限
-      upper =  round(or_result$conf.int[2],3)  ,           # 95% CI 上限
+      Study = group_get[i],      
+      mean = round(or_result$estimate,3) ,             
+      lower = round(or_result$conf.int[1],3)  ,            
+      upper =  round(or_result$conf.int[2],3)  ,           
       pval = round(or_result$p.value, 3) 
     )
     forest_data$'OR(95% CI)' <- paste0(forest_data$mean, "(", forest_data$lower, "-", forest_data$upper, ")")
@@ -138,14 +135,13 @@ names(forest_data_ls)<-c(
   "Hearing_impairment_new","Situs_inversus","Neonatal pulmonary symptoms",
   "CHD_new","infertility_new","Brain.disease","Lateral.ventricle.widening",
   "COVID-19","maternal.miscarriage","Kindey.disease","Skeletal.abnormalities")
-#添加表头
+
 
 #names(forest_data_ls) <- names(contingency_table_sym)
 #names(forest_data_ls)[6] <- "pulmonary disease"
 write.xlsx(forest_data_ls,"output260118/forest_data_VariantSlassification_new_clinic2.xlsx")
 
 
-#####画图
 
 for (i in 1:length(forest_data_ls)) {
   p <- forest_f(forest_data_ls[[i]])
