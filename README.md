@@ -51,19 +51,20 @@ install.packages(c("dplyr", "tidyr", "tidyverse", "tableone", "logistf",
 
 ## 3. Repository Structure
 ```
-©À©¤©¤ DATA/
-©¦ ©À©¤©¤ China.geojson # China map data
-©¦ ©À©¤©¤ China_line.geojson # China map boundary data
-©¦ ©¸©¤©¤ TEST.xlsx # Test dataset
-©À©¤©¤ Rscript/
-©¦ ©À©¤©¤ 1.clinic_symptoms_statistic.R # Clinical symptoms statistics
-©¦ ©À©¤©¤ 2.Map.R # Map visualization
-©¦ ©À©¤©¤ 3.GeneRosepie.R  # Gene rose pie chart
-©¦ ©À©¤©¤ 4.Fisher_test_forestplot.R  # Fisher's test & forest plot
-©¦ ©¸©¤©¤ 5.Firth_regression.R # Firth logistic regression
-©À©¤©¤ PCD_cohort_code.Rproj  # RStudio project file
-©À©¤©¤ README.md # This file
-©¸©¤©¤ LICENSE # MIT License
+PCD_cohort_code/
+â”œâ”€â”€ DATA/
+â”‚ â”œâ”€â”€ China.geojson
+â”‚ â”œâ”€â”€ China_line.geojson
+â”‚ â””â”€â”€ TEST.xlsx
+â”œâ”€â”€ Rscript/
+â”‚ â”œâ”€â”€ 1.clinic_symptoms_statistic.R
+â”‚ â”œâ”€â”€ 2.Map.R
+â”‚ â”œâ”€â”€ 3.GeneRosepie.R
+â”‚ â”œâ”€â”€ 4.Fisher_test_forestplot.R
+â”‚ â””â”€â”€ 5.Firth_regression.R
+â”œâ”€â”€ PCD_cohort_code.Rproj
+â”œâ”€â”€ README.md
+â””â”€â”€ LICENSE
 ```
 
 ## 4. How to Run the Code
