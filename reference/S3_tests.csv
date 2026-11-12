@@ -1,0 +1,8 @@
+Analysis,Participants,df 1,df 2,F,p,Test or model
+Unadjusted,39,6,32,2.05050427869497,0.0874413533638336,"Overall gene-group difference, without age adjustment"
+Primary ANCOVA,39,6,31,2.89022269117294,0.0235068437308765,"Overall gene-group difference, adjusted for age"
+Dual-gene sensitivity 1,40,6,32,2.84678784392906,0.0245639546900127,"Dual-gene participant assigned to DNAH5, adjusted for age"
+Dual-gene sensitivity 2,40,6,32,3.1042870479656,0.0164247526586432,"Dual-gene participant assigned to DNAH11, adjusted for age"
+Additional sex adjustment,39,6,30,2.72937962719673,0.030898667593183,"Overall gene-group difference, adjusted for age and sex"
+Robust Wald test,39,6,31,2.52398825803139,0.0417168563398527,"Overall gene-group difference, age-adjusted model with HC3 robust standard errors"
+Age-by-group interaction,39,6,25,1.52345495168969,0.211428266150012,Joint test of the six age-by-group terms against the common-slope model

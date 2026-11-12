@@ -1,0 +1,315 @@
+family,phenotype,group,key
+S4,Brain disease,het,het
+S4,Brain disease,hemi,hemi
+S4,Brain disease,compound het,compoundhet
+S4,Brain disease,hom,hom
+S4,Bronchiectasis,hom,hom
+S4,Bronchiectasis,compound het,compoundhet
+S4,Bronchiectasis,hemi,hemi
+S4,Bronchiectasis,het,het
+S4,Bronchitis,het,het
+S4,Bronchitis,hom,hom
+S4,Bronchitis,compound het,compoundhet
+S4,Bronchitis,hemi,hemi
+S4,Congenital Heart Disease,hom,hom
+S4,Congenital Heart Disease,hemi,hemi
+S4,Congenital Heart Disease,compound het,compoundhet
+S4,Congenital Heart Disease,het,het
+S4,Chronic respiratory infections,het,het
+S4,Chronic respiratory infections,compound het,compoundhet
+S4,Chronic respiratory infections,hom,hom
+S4,Chronic respiratory infections,hemi,hemi
+S4,Chronic wet cough,het,het
+S4,Chronic wet cough,compound het,compoundhet
+S4,Chronic wet cough,hom,hom
+S4,Chronic wet cough,hemi,hemi
+S4,Fetal ventriculomegaly,het,het
+S4,Fetal ventriculomegaly,hom,hom
+S4,Fetal ventriculomegaly,compound het,compoundhet
+S4,Fetal ventriculomegaly,hemi,hemi
+S4,Hearing impairment,hom,hom
+S4,Hearing impairment,compound het,compoundhet
+S4,Hearing impairment,hemi,hemi
+S4,Hearing impairment,het,het
+S4,Infertility,het,het
+S4,Infertility,hom,hom
+S4,Infertility,compound het,compoundhet
+S4,Kidney disease,hom,hom
+S4,Kidney disease,het,het
+S4,Kidney disease,compound het,compoundhet
+S4,Kidney disease,hemi,hemi
+S4,Maternal miscarriage,hom,hom
+S4,Maternal miscarriage,compound het,compoundhet
+S4,Maternal miscarriage,hemi,hemi
+S4,Nasosinusitis,het,het
+S4,Nasosinusitis,hom,hom
+S4,Nasosinusitis,hemi,hemi
+S4,Nasosinusitis,compound het,compoundhet
+S4,Neonatal pulmonary symptoms,het,het
+S4,Neonatal pulmonary symptoms,hom,hom
+S4,Neonatal pulmonary symptoms,hemi,hemi
+S4,Neonatal pulmonary symptoms,compound het,compoundhet
+S4,Otitis media mastoiditis,hom,hom
+S4,Otitis media mastoiditis,compound het,compoundhet
+S4,Otitis media mastoiditis,hemi,hemi
+S4,Otitis media mastoiditis,het,het
+S4,Pneumonia,het,het
+S4,Pneumonia,hom,hom
+S4,Pneumonia,compound het,compoundhet
+S4,Pneumonia,hemi,hemi
+S4,Pulmonary atelectasis pulmonary,het,het
+S4,Pulmonary atelectasis pulmonary,hemi,hemi
+S4,Pulmonary atelectasis pulmonary,compound het,compoundhet
+S4,Pulmonary atelectasis pulmonary,hom,hom
+S4,Situs inversus,compound het,compoundhet
+S4,Situs inversus,hom,hom
+S4,Situs inversus,het,het
+S4,Situs inversus,hemi,hemi
+S4,Skeletal abnormalities,hom,hom
+S4,Skeletal abnormalities,compound het,compoundhet
+S4,Skeletal abnormalities,hemi,hemi
+S5,Brain disease,Nonsense & other,nonsense&other
+S5,Brain disease,Frameshift & other,frameshift&other
+S5,Brain disease,Frameshift,frameshift
+S5,Brain disease,Nonsense,nonsense
+S5,Brain disease,Missense,missense
+S5,Brain disease,Splice,splice
+S5,Brain disease,Deletion & other,deletion&other
+S5,Brain disease,Deletion,deletion
+S5,Brain disease,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Bronchiectasis,Deletion & other,deletion&other
+S5,Bronchiectasis,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Bronchiectasis,Nonsense & other,nonsense&other
+S5,Bronchiectasis,Frameshift,frameshift
+S5,Bronchiectasis,Nonsense,nonsense
+S5,Bronchiectasis,Deletion,deletion
+S5,Bronchiectasis,Frameshift & other,frameshift&other
+S5,Bronchiectasis,Missense,missense
+S5,Bronchiectasis,Splice,splice
+S5,Bronchitis,Frameshift & other,frameshift&other
+S5,Bronchitis,Nonsense & other,nonsense&other
+S5,Bronchitis,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Bronchitis,Deletion,deletion
+S5,Bronchitis,Frameshift,frameshift
+S5,Bronchitis,Nonsense,nonsense
+S5,Bronchitis,Deletion & other,deletion&other
+S5,Bronchitis,Splice,splice
+S5,Bronchitis,Missense,missense
+S5,Congenital Heart Disease,Nonsense,nonsense
+S5,Congenital Heart Disease,Nonsense & other,nonsense&other
+S5,Congenital Heart Disease,Frameshift & other,frameshift&other
+S5,Congenital Heart Disease,Splice,splice
+S5,Congenital Heart Disease,Missense,missense
+S5,Congenital Heart Disease,Deletion,deletion
+S5,Congenital Heart Disease,Frameshift,frameshift
+S5,Congenital Heart Disease,Deletion & other,deletion&other
+S5,Congenital Heart Disease,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Chronic respiratory infections,Nonsense & other,nonsense&other
+S5,Chronic respiratory infections,Missense,missense
+S5,Chronic respiratory infections,Deletion,deletion
+S5,Chronic respiratory infections,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Chronic respiratory infections,Frameshift & other,frameshift&other
+S5,Chronic respiratory infections,Splice,splice
+S5,Chronic respiratory infections,Frameshift,frameshift
+S5,Chronic respiratory infections,Deletion & other,deletion&other
+S5,Chronic respiratory infections,Nonsense,nonsense
+S5,Chronic wet cough,Deletion,deletion
+S5,Chronic wet cough,Frameshift & other,frameshift&other
+S5,Chronic wet cough,Deletion & other,deletion&other
+S5,Chronic wet cough,Nonsense,nonsense
+S5,Chronic wet cough,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Chronic wet cough,Splice,splice
+S5,Chronic wet cough,Missense,missense
+S5,Chronic wet cough,Frameshift,frameshift
+S5,Chronic wet cough,Nonsense & other,nonsense&other
+S5,Fetal ventriculomegaly,Nonsense,nonsense
+S5,Fetal ventriculomegaly,Deletion & other,deletion&other
+S5,Fetal ventriculomegaly,Frameshift,frameshift
+S5,Fetal ventriculomegaly,Frameshift & other,frameshift&other
+S5,Fetal ventriculomegaly,Deletion,deletion
+S5,Fetal ventriculomegaly,Missense,missense
+S5,Fetal ventriculomegaly,Nonsense & other,nonsense&other
+S5,Fetal ventriculomegaly,Splice,splice
+S5,Hearing impairment,Missense,missense
+S5,Hearing impairment,Nonsense,nonsense
+S5,Hearing impairment,Deletion & other,deletion&other
+S5,Hearing impairment,Frameshift,frameshift
+S5,Hearing impairment,Deletion,deletion
+S5,Hearing impairment,Splice,splice
+S5,Hearing impairment,Nonsense & other,nonsense&other
+S5,Hearing impairment,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Hearing impairment,Frameshift & other,frameshift&other
+S5,Infertility,Nonsense,nonsense
+S5,Infertility,Splice,splice
+S5,Infertility,Nonsense & other,nonsense&other
+S5,Infertility,Frameshift,frameshift
+S5,Infertility,Frameshift & other,frameshift&other
+S5,Infertility,Deletion & other,deletion&other
+S5,Kidney disease,Missense,missense
+S5,Kidney disease,Nonsense & other,nonsense&other
+S5,Kidney disease,Frameshift,frameshift
+S5,Kidney disease,Splice,splice
+S5,Kidney disease,Deletion,deletion
+S5,Kidney disease,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Kidney disease,Frameshift & other,frameshift&other
+S5,Kidney disease,Deletion & other,deletion&other
+S5,Kidney disease,Nonsense,nonsense
+S5,Maternal miscarriage,Splice,splice
+S5,Maternal miscarriage,Deletion & other,deletion&other
+S5,Maternal miscarriage,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Maternal miscarriage,Deletion,deletion
+S5,Maternal miscarriage,Frameshift & other,frameshift&other
+S5,Maternal miscarriage,Nonsense & other,nonsense&other
+S5,Maternal miscarriage,Nonsense,nonsense
+S5,Maternal miscarriage,Missense,missense
+S5,Maternal miscarriage,Frameshift,frameshift
+S5,Nasosinusitis,Missense,missense
+S5,Nasosinusitis,Deletion,deletion
+S5,Nasosinusitis,Deletion & other,deletion&other
+S5,Nasosinusitis,Nonsense & other,nonsense&other
+S5,Nasosinusitis,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Nasosinusitis,Frameshift & other,frameshift&other
+S5,Nasosinusitis,Nonsense,nonsense
+S5,Nasosinusitis,Splice,splice
+S5,Nasosinusitis,Frameshift,frameshift
+S5,Neonatal pulmonary symptoms,Frameshift,frameshift
+S5,Neonatal pulmonary symptoms,Missense,missense
+S5,Neonatal pulmonary symptoms,Deletion & other,deletion&other
+S5,Neonatal pulmonary symptoms,Nonsense,nonsense
+S5,Neonatal pulmonary symptoms,Nonsense & other,nonsense&other
+S5,Neonatal pulmonary symptoms,Splice,splice
+S5,Neonatal pulmonary symptoms,Frameshift & other,frameshift&other
+S5,Neonatal pulmonary symptoms,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Neonatal pulmonary symptoms,Deletion,deletion
+S5,Otitis media mastoiditis,Frameshift & other,frameshift&other
+S5,Otitis media mastoiditis,Missense,missense
+S5,Otitis media mastoiditis,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Otitis media mastoiditis,Frameshift,frameshift
+S5,Otitis media mastoiditis,Deletion,deletion
+S5,Otitis media mastoiditis,Deletion & other,deletion&other
+S5,Otitis media mastoiditis,Nonsense & other,nonsense&other
+S5,Otitis media mastoiditis,Nonsense,nonsense
+S5,Otitis media mastoiditis,Splice,splice
+S5,Pneumonia,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Pneumonia,Frameshift & other,frameshift&other
+S5,Pneumonia,Deletion,deletion
+S5,Pneumonia,Deletion & other,deletion&other
+S5,Pneumonia,Frameshift,frameshift
+S5,Pneumonia,Splice,splice
+S5,Pneumonia,Missense,missense
+S5,Pneumonia,Nonsense & other,nonsense&other
+S5,Pneumonia,Nonsense,nonsense
+S5,Pulmonary atelectasis pulmonary,Nonsense & other,nonsense&other
+S5,Pulmonary atelectasis pulmonary,Deletion & other,deletion&other
+S5,Pulmonary atelectasis pulmonary,Missense,missense
+S5,Pulmonary atelectasis pulmonary,Frameshift,frameshift
+S5,Pulmonary atelectasis pulmonary,Frameshift & other,frameshift&other
+S5,Pulmonary atelectasis pulmonary,Nonsense,nonsense
+S5,Pulmonary atelectasis pulmonary,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Pulmonary atelectasis pulmonary,Deletion,deletion
+S5,Pulmonary atelectasis pulmonary,Splice,splice
+S5,Situs inversus,Nonsense,nonsense
+S5,Situs inversus,Frameshift & other,frameshift&other
+S5,Situs inversus,Frameshift,frameshift
+S5,Situs inversus,Nonsense & other,nonsense&other
+S5,Situs inversus,Splice,splice
+S5,Situs inversus,Deletion & other,deletion&other
+S5,Situs inversus,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Situs inversus,Deletion,deletion
+S5,Situs inversus,Missense,missense
+S5,Skeletal abnormalities,Deletion & other,deletion&other
+S5,Skeletal abnormalities,Nonsense,nonsense
+S5,Skeletal abnormalities,Nonsense & other,nonsense&other
+S5,Skeletal abnormalities,Initiation Codon Mutation & Other,initiationcodonmutation&other
+S5,Skeletal abnormalities,Deletion,deletion
+S5,Skeletal abnormalities,Frameshift & other,frameshift&other
+S5,Skeletal abnormalities,Frameshift,frameshift
+S5,Skeletal abnormalities,Splice,splice
+S5,Skeletal abnormalities,Missense,missense
+S6,Brain disease,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Brain disease,Hyperfrequent,hyperfrequent
+S6,Brain disease,No/reduced motile cilia,no/reducedmotilecilia
+S6,Brain disease,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Brain disease,Stiff,stiff
+S6,Bronchiectasis,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Bronchiectasis,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Bronchiectasis,Hyperfrequent,hyperfrequent
+S6,Bronchiectasis,Stiff,stiff
+S6,Bronchiectasis,No/reduced motile cilia,no/reducedmotilecilia
+S6,Bronchitis,Stiff,stiff
+S6,Bronchitis,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Bronchitis,No/reduced motile cilia,no/reducedmotilecilia
+S6,Bronchitis,Hyperfrequent,hyperfrequent
+S6,Bronchitis,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Congenital Heart Disease,Stiff,stiff
+S6,Congenital Heart Disease,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Congenital Heart Disease,Hyperfrequent,hyperfrequent
+S6,Congenital Heart Disease,No/reduced motile cilia,no/reducedmotilecilia
+S6,Congenital Heart Disease,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Chronic respiratory infections,No/reduced motile cilia,no/reducedmotilecilia
+S6,Chronic respiratory infections,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Chronic respiratory infections,Hyperfrequent,hyperfrequent
+S6,Chronic respiratory infections,Stiff,stiff
+S6,Chronic respiratory infections,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Chronic wet cough,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Chronic wet cough,Hyperfrequent,hyperfrequent
+S6,Chronic wet cough,No/reduced motile cilia,no/reducedmotilecilia
+S6,Chronic wet cough,Stiff,stiff
+S6,Chronic wet cough,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Fetal ventriculomegaly,Stiff,stiff
+S6,Fetal ventriculomegaly,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Fetal ventriculomegaly,No/reduced motile cilia,no/reducedmotilecilia
+S6,Fetal ventriculomegaly,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Fetal ventriculomegaly,Hyperfrequent,hyperfrequent
+S6,Hearing impairment,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Hearing impairment,Stiff,stiff
+S6,Hearing impairment,Hyperfrequent,hyperfrequent
+S6,Hearing impairment,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Hearing impairment,No/reduced motile cilia,no/reducedmotilecilia
+S6,Infertility,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Infertility,Stiff,stiff
+S6,Kidney disease,Hyperfrequent,hyperfrequent
+S6,Kidney disease,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Kidney disease,No/reduced motile cilia,no/reducedmotilecilia
+S6,Kidney disease,Stiff,stiff
+S6,Kidney disease,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Maternal miscarriage,No/reduced motile cilia,no/reducedmotilecilia
+S6,Maternal miscarriage,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Maternal miscarriage,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Maternal miscarriage,Hyperfrequent,hyperfrequent
+S6,Maternal miscarriage,Stiff,stiff
+S6,Nasosinusitis,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Nasosinusitis,Hyperfrequent,hyperfrequent
+S6,Nasosinusitis,No/reduced motile cilia,no/reducedmotilecilia
+S6,Nasosinusitis,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Nasosinusitis,Stiff,stiff
+S6,Neonatal pulmonary symptoms,Hyperfrequent,hyperfrequent
+S6,Neonatal pulmonary symptoms,No/reduced motile cilia,no/reducedmotilecilia
+S6,Neonatal pulmonary symptoms,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Neonatal pulmonary symptoms,Stiff,stiff
+S6,Neonatal pulmonary symptoms,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Otitis media mastoiditis,Hyperfrequent,hyperfrequent
+S6,Otitis media mastoiditis,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Otitis media mastoiditis,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Otitis media mastoiditis,No/reduced motile cilia,no/reducedmotilecilia
+S6,Otitis media mastoiditis,Stiff,stiff
+S6,Pneumonia,No/reduced motile cilia,no/reducedmotilecilia
+S6,Pneumonia,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Pneumonia,Hyperfrequent,hyperfrequent
+S6,Pneumonia,Stiff,stiff
+S6,Pneumonia,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Pulmonary atelectasis pulmonary,Hyperfrequent,hyperfrequent
+S6,Pulmonary atelectasis pulmonary,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Pulmonary atelectasis pulmonary,Stiff,stiff
+S6,Pulmonary atelectasis pulmonary,No/reduced motile cilia,no/reducedmotilecilia
+S6,Pulmonary atelectasis pulmonary,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Situs inversus,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Situs inversus,Stiff,stiff
+S6,Situs inversus,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Situs inversus,No/reduced motile cilia,no/reducedmotilecilia
+S6,Situs inversus,Hyperfrequent,hyperfrequent
+S6,Skeletal abnormalities,Stiff,stiff
+S6,Skeletal abnormalities,No/reduced motile cilia,no/reducedmotilecilia
+S6,Skeletal abnormalities,Minimal residual movements/Immotile,minimalresidualmovements/immotile
+S6,Skeletal abnormalities,Uncoordinated and disoriented,uncoordinatedanddisoriented
+S6,Skeletal abnormalities,Hyperfrequent,hyperfrequent

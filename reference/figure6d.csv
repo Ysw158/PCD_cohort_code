@@ -1,0 +1,7 @@
+group1,group2,n1,n2,p,p_holm
+hyperfrequent,minimal residual movements/immotile,4,44,0.0007981763903471601,0.004789058342082961
+hyperfrequent,stiff,4,4,0.030382821976577504,0.09114846592973251
+hyperfrequent,uncoordinated and disoriented,4,4,0.06060196971200609,0.12120393942401218
+minimal residual movements/immotile,stiff,44,4,0.0026253860728967606,0.011563522787043454
+minimal residual movements/immotile,uncoordinated and disoriented,44,4,0.002312704557408691,0.011563522787043454
+stiff,uncoordinated and disoriented,4,4,0.47048642205878966,0.47048642205878966
